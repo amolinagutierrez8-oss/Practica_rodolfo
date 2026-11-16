@@ -1,0 +1,7 @@
+Informe de Práctica
+Introducción
+Objetivos
+Desarrollo
+Resultados
+Conclusiones
+Referencias
